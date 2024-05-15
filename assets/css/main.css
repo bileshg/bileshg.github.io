@@ -13,7 +13,6 @@ div,
 span,
 applet,
 object,
-iframe,
 h1,
 h2,
 h3,
@@ -94,6 +93,10 @@ video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+}
+
+iframe {
+	width: 100%;
 }
 
 article,
